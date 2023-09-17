@@ -2,7 +2,7 @@
   <transition name="fade-in">
     <div
       :class="expanded ? 'Expanded' : ''"
-      class="SearchBox d-flex j-c-center shadow-3"
+      class="SearchBox flex j-c-center shadow-3"
     >
       <i @click="$emit('searchoff')" class="icon-cancel"></i>
       <div class="Search xs12 sm10 md9 lg7">
