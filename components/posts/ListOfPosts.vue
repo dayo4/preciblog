@@ -18,11 +18,11 @@
         <div class="Aut">
           <img
             src="/defaults/usr/me1.jpg"
-            alt="Samuel Adeniyi"
+            alt="Precious Adeniyi"
             class="AutImg"
             draggable="false"
           />
-          <span class="AutName">Adedayo A.</span>
+          <span class="AutName">Precious A.</span>
         </div>
         <p
           class="Excerpt"
