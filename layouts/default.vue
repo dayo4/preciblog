@@ -3,7 +3,7 @@
     <div ref="parallaxBg" class="ParallaxBg"></div>
 
     <div class="GBLMContainer">
-      <!-- <TopNav @search="searchOn = !searchOn" /> -->
+      <TopNav @search="searchOn = !searchOn" />
       <Process />
 
       <ClientOnly>
