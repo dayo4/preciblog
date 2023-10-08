@@ -21,9 +21,9 @@
         <div
           class="Img flex md:basis-1/3 lg:basis-1/2 md:mt-0 justify-center align-middle mb-9"
         >
-          <div class="basis-80">
+          <div class="max-h-[320px] max-w-[320px]">
             <img
-            class="rounded-full"
+            class="rounded-ful h-full w-full"
               :src="author?.image.fields.file.url"
               :alt="author?.image.fields.file.title"
               draggable="false"
