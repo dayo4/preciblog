@@ -8,7 +8,7 @@
     <template #WrapperBody>
       <section class="d-flex j-c-center">
         <div class="TopImg xs4 sm3 md2 mb-7">
-          <img src="/defaults/pgs/orbrift_ab1.jpg" draggable="false" />
+          <img src="/defaults/pgs/preci_ab1.jpg" draggable="false" />
         </div>
       </section>
 

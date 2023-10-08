@@ -24,12 +24,12 @@
           </div>
           <div class="Author">
             <img
-              src="/defaults/usr/me1.jpg"
-              alt="Samuel Adeniyi"
+              src="/defaults/usr/precious.jpeg"
+              alt="Precious A."
               class="AuthorImage"
               draggable="false"
             />
-            <span class="AuthorName">Adedayo A.</span>
+            <span class="AuthorName">Precious A.</span>
           </div>
         </div>
 
@@ -145,7 +145,7 @@ export default {
               title: currentPost?.title,
               content: currentPost?.excerpt,
               image: currentPost?.images[0].fields.file.url,
-              url: "https://orbrift.com" + route.path,
+              url:  route.path,
               type: "article",
             })
           );

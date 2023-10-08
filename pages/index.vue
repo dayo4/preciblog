@@ -21,13 +21,19 @@
         <div
           class="Img flex md:basis-1/3 lg:basis-1/2 md:mt-0 justify-center align-middle mb-9"
         >
-          <div class="max-h-[320px] max-w-[320px]">
+          <div class="max-h-[320px] max-w-[320px] rounded-full overflow-hidden">
             <img
+            class="h-full w-full"
+              src="/defaults/usr/precious.jpeg"
+              alt="Precious A."
+              draggable="false"
+            />
+            <!-- <img
             class="rounded-ful h-full w-full"
               :src="author?.image.fields.file.url"
               :alt="author?.image.fields.file.title"
               draggable="false"
-            />
+            /> -->
           </div>
         </div>
       </div>
