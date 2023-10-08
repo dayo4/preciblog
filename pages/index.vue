@@ -70,7 +70,7 @@
         <Button
           @clicked="
             $router.push({
-              name: 'about',
+              name: 'posts',
             })
           "
           size="medium"
@@ -206,7 +206,7 @@ export default {
     width: 100%;
     height: 100%;
     background-color: $sec-color;
-    background-image: url("/defaults/pgs/orbrift_web_design_and_development.jpg");
+    background-image: url("/defaults/pgs/preciblog012.jpg");
     background-attachment: fixed;
   }
   & .Detail {

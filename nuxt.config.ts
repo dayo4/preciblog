@@ -2,7 +2,7 @@
 export default defineNuxtConfig({
   app: {
     head: {
-      title: "Orbrift",
+      title: "Preciblog",
       htmlAttrs: {
         lang: "en",
       },

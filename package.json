@@ -1,5 +1,5 @@
 {
-  "name": "orbrift",
+  "name": "preciblog",
   "private": true,
   "scripts": {
     "build": "nuxt build",
