@@ -19,7 +19,7 @@
           <div class="Img">
             <!-- <img
               src="/defaults/usr/m1.png"
-              alt="Samuel Adeniyi"
+              alt="Precious Adeniyi"
               draggable="false"
             /> -->
           </div>
